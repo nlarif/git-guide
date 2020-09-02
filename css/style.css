@@ -149,6 +149,10 @@ code {
 .block-comments h2 { color: #000; }
 .block-comments h3 { font-size: 16px; }
 .block-comments #disqus_thread { width: 600px; text-align: left; margin-left: auto; margin-right: auto; }
+.block-pr { background-color: #ffc19f; }
+.block-pr h2 { color: #cc4037; }
+.block-pr code { background-color: #000; color: #FFF; }
+.block-pr code a { background-color: #000; color: #FFF; font-size: 25px; cursor: pointer;}
 
 .tower {
     display: block;
